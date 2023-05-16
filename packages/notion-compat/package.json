@@ -1,5 +1,5 @@
 {
-  "name": "notion-compat",
+  "name": "@commandtechno/notion-compat",
   "version": "6.16.0",
   "type": "module",
   "description": "Compatibility layer between the official Notion API and unofficial private API.",

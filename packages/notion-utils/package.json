@@ -1,5 +1,5 @@
 {
-  "name": "notion-utils",
+  "name": "@commandtechno/notion-utils",
   "version": "6.16.0",
   "type": "module",
   "description": "Useful utilities for working with Notion data. Isomorphic.",

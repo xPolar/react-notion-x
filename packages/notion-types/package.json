@@ -1,5 +1,5 @@
 {
-  "name": "notion-types",
+  "name": "@commandtechno/notion-types",
   "version": "6.16.0",
   "type": "module",
   "description": "TypeScript types for core Notion data structures.",
